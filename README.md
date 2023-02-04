@@ -1,7 +1,6 @@
 ### Oi, me chamo Matheus Bassi 👋
 
-- 🔭 Trabalhando com desenvolvimento de software
-- 🌱 Estudando Java
+- 🔭 Engenheiro de Software Jr. em ScalaSystems
 
 <div align="center">
   <a href="https://github.com/mtbassi">
